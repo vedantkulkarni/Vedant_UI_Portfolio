@@ -1,6 +1,6 @@
 <br/>
 
-## Screenshots🚀
+## CampusChat App 🚀
 
 
 |**Manage Account**|**Home Screen**|
