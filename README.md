@@ -13,6 +13,6 @@
 
 |**Ask Some Doubts**|**Reply To People!**|
 |---|---|
-|<img src="https://github.com/vedantkulkarni/CampusChat/raw/Day1/mockups/doubts.png" height="750"/>|<img src=".https://github.com/vedantkulkarni/CampusChat/raw/Day1/mockups/reply.png" height="750"/>|
+|<img src="https://github.com/vedantkulkarni/CampusChat/raw/Day1/mockups/doubts.png" height="750"/>|<img src="https://github.com/vedantkulkarni/CampusChat/raw/Day1/mockups/reply.png" height="750"/>|
 
 <br/>
